@@ -1,0 +1,81 @@
+# .NET Core
+*.obj
+*.dll
+*.exe
+*.pdb
+*.log
+*.vscode/
+*.vs/
+*/bin/
+*/obj/
+project.lock.json
+.project
+*.userprefs
+*.suo
+*.cache
+*.DS_Store
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj.user
+*.vcxproj
+*.vcxproj.filters
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.pfx
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono-specific
+mono_crash.*
+
+# Output of 'dotnet pack'
+*.nupkg
+*.pck
